@@ -1,5 +1,5 @@
 const ratingEls = document.querySelectorAll(".rating");
-const btnEl = document.getElementById(".btn");
+const btnEl = document.getElementById("btn");
 const containerEl = document.getElementById("container");
 
 let selectedRating = "";
